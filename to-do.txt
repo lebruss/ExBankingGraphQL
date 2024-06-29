@@ -1,0 +1,21 @@
+use github tasks for accountability
+Make a banking service called ExBanking
+use GraphQL
+
+five APIs:
+
+create_user
+deposit
+withdraw
+get_balance
+send
+
+Provide functional test cases
+Provide non-functional test cases
+For 10% of functional test cases:
+    Mock / service virtualization of ExBanking
+    Test automations
+Code should be written in JavaScript
+
+Write a readme that introduces the application and what I should do with it
+Flowchart diagram of the application process
