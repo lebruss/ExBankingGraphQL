@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0",
+    "lodash": "^4.17.21"
+  },
+  "name": "exbankinggraphql",
+  "version": "1.0.0",
+  "description": "my interview assignment for Automation QA",
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "chai-http": "^5.0.0",
+    "mocha": "^10.5.2",
+    "nock": "^13.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

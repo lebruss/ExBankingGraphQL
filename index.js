@@ -74,7 +74,7 @@ const resolvers = {
   },
 };
 
-// Create the Apollo Server
+// Create the local Apollo Server
 const server = new ApolloServer({ typeDefs, resolvers });
 
 // Start the server
